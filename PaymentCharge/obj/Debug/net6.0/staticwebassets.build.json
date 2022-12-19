@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FgCXNo0LzczRzaXKTBVRu/ngXTeUcvAXIygJ2TMTy9c=",
+  "Source": "PaymentCharge",
+  "BasePath": "_content/PaymentCharge",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
